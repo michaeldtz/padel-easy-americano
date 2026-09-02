@@ -1,0 +1,6 @@
+{
+  "name": "Padel Americano",
+  "description": "An elegant, iPhone-optimized app to manage, pair, and score Padel Americano tournaments for 5 or 6 players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
